@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="images/dsu_logo.png" alt="Dayananda Sagar University Logo" width="150"/>
+
 # 🏦 Advanced Deep Learning for Real-Time Fraud Detection in Banking
 
 ### 🔐 Revolutionizing Financial Security with AI
@@ -18,6 +20,7 @@
 ![IsolationForest](https://img.shields.io/badge/Model-Isolation%20Forest-teal?style=for-the-badge)
 ![Hybrid](https://img.shields.io/badge/Architecture-Hybrid%20Model-red?style=for-the-badge)
 ![Adversarial](https://img.shields.io/badge/Training-Adversarial-black?style=for-the-badge)
+
 
 <br/><br/>
 
